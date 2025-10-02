@@ -1,0 +1,120 @@
+{
+  "Name": "R.E.P.O. Interactive",
+  "Description": "Macht R.E.P.O. einfach härter als es eh schon ist!",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 RunningPAW",
+      "KeyCooldown": 3,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Name": "DIK_W",
+          "Key": 17,
+          "InputType": 1,
+          "HoldTime": 3.0
+        },
+        {
+          "Name": "DIK_A",
+          "Key": 30,
+          "InputType": 1,
+          "HoldTime": 3.0
+        },
+        {
+          "Name": "DIK_S",
+          "Key": 31,
+          "InputType": 1,
+          "HoldTime": 3.0
+        },
+        {
+          "Name": "DIK_D",
+          "Key": 32,
+          "InputType": 1,
+          "HoldTime": 3.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": "Steuerung wird re-kalibiert..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Springen, Klettersprung tja oder loslassen...",
+      "Command": "🎮 Spaaace!",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SPACE",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 3.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": "NU MACH SCHON!!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 TumblePaw",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_Q",
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 0.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": ""
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 5000,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 Es-ca-pe Paw",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESCAPE",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 0.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": ""
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Dies drückt die rechte Maustaste und lässt sie anschließend wieder los",
+      "Command": "🎮 Lass los!",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "MOUSE_RIGHT_DOWN",
+          "Key": 8,
+          "InputType": 0,
+          "HoldTime": 1.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": ""
+    }
+  ]
+}

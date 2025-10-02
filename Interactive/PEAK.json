@@ -1,0 +1,101 @@
+{
+  "Name": "PEAK Interactive",
+  "Description": "Macht PEAK einfach härter als es eh schon ist!",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 RunningPAW",
+      "KeyCooldown": 3,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Name": "DIK_W",
+          "Key": 17,
+          "InputType": 1,
+          "HoldTime": 3.0
+        },
+        {
+          "Name": "DIK_A",
+          "Key": 30,
+          "InputType": 1,
+          "HoldTime": 3.0
+        },
+        {
+          "Name": "DIK_S",
+          "Key": 31,
+          "InputType": 1,
+          "HoldTime": 3.0
+        },
+        {
+          "Name": "DIK_D",
+          "Key": 32,
+          "InputType": 1,
+          "HoldTime": 3.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": "Steuerung wird re-kalibiert..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Springen, Klettersprung tja oder loslassen...",
+      "Command": "🎮 Spaaace!",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SPACE",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 3.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": "NU MACH SCHON!!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 Deckung",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 5.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": "Eine gute Deckung ist die halbe Miete..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 Lass fallen",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_Q",
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1.0
+        }
+      ],
+      "OSC": [],
+      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
+      "Message": "Das brauchst du doch gar nicht..."
+    }
+  ]
+}

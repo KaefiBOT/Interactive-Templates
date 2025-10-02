@@ -1,0 +1,26 @@
+{
+  "Name": "VRChat OSC Channelpoints",
+  "Description": "OSC Protokoll für VRChat in KaefiBOT",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 3000,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 OSC Example",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [],
+      "OSC": [
+        {
+          "Name": "/avatar/parameters/twitch",
+          "DefaultValue": "0",
+          "Value": "24",
+          "HoldTime": 0.0
+        }
+      ],
+      "Sound": "",
+      "Message": "The 'twitch' in the Name field is the 'global' paramter. It has to be a 'global' parameter, so no VRCFury unless you set it there as 'global' in the Full-Controler sub-options! Learn more about that in the VRCFury official documentation. This example sets a value into an int-based parameter. You can do booleans with 1 or 0 for true or false e.g. on or off and also doubles by doing 1.0 or 0.333522 or 0.0005 s.o. in the value field!"
+    }
+  ]
+}
