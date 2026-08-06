@@ -7,8 +7,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "!SHIFT",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LSHIFT",
@@ -22,8 +20,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "!ALT",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LALT",
@@ -37,8 +33,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "!CTRL",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LCONTROL",
@@ -52,8 +46,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "!LOOK",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_NUMPAD0",
@@ -67,8 +59,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "!SPACE",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -82,8 +72,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "!LICHT",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SLASH",
@@ -97,8 +85,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "!BARREL",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_NUMPAD5",

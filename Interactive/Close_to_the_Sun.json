@@ -35,7 +35,6 @@
     {
       "Command": "monkaHMM",
       "KeyCooldown": 1,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 15,
@@ -47,8 +46,6 @@
     },
     {
       "Command": "monkaWolf",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 1,

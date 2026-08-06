@@ -37,7 +37,6 @@
           "HoldTime": 3
         }
       ],
-      "Sound": "",
       "Message": "/me Steuerung wird kalibiert."
     },
     {
@@ -45,8 +44,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Deckung",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -55,7 +52,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "/me Suche Deckung."
     },
     {
@@ -63,8 +59,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Ultimative Fähigkeit",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -73,7 +67,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "",
       "Message": "/me Ōkami yo, waga teki wo kurae!"
     },
     {
@@ -81,8 +74,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Systemfehler",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -97,7 +88,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "",
       "Message": "/me Fehler im Fähigkeitenmodul entdeckt."
     },
     {
@@ -105,8 +95,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Nachladen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -115,7 +103,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "",
       "Message": "/me Nachladen initialisiert. (Wenn möglich)"
     },
     {
@@ -123,7 +110,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Waffenwechsel",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -139,7 +125,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "/me Primärwaffe gewechselt. (Wenn vorhanden)"
     }
   ]

@@ -6,7 +6,6 @@
   "InteractiveKeys": [
     {
       "Command": "🎮 RunningPAW",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 17,
@@ -23,7 +22,6 @@
     },
     {
       "Command": "🎮 ESC",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 1,
@@ -35,7 +33,6 @@
     },
     {
       "Command": "🎮 Zaubern",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 45,

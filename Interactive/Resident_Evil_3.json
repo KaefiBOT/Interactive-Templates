@@ -7,8 +7,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Reloaaading",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_R",
@@ -22,8 +20,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Ausweichen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -37,7 +33,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Random Waffe",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -70,8 +65,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 360° Noscope",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_Q",
@@ -85,8 +78,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 PAUSE!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_P",

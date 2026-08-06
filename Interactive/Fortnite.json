@@ -9,8 +9,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Ducken oder Rutschen",
       "Command": "🎮 SneakyPaw",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LCONTROL",
@@ -19,8 +17,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": "/me Ducken, Rutschen... Deal with it!"
     },
     {
@@ -28,8 +24,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Nachladen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_R",
@@ -38,8 +32,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": "/me Schon nachgeladen?"
     },
     {
@@ -47,8 +39,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Wechsel auf das Erntewerkzeug",
       "Command": "🎮 Erntewerkzeug",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_1",
@@ -57,8 +47,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": "/me Bau doch mal was ab!"
     },
     {
@@ -66,8 +54,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Ein Blick auf die Karte",
       "Command": "🎮 Karte",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_M",
@@ -76,8 +62,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": "/me Wo sind wir?"
     },
     {
@@ -85,8 +69,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Ein Blick ins Inventar",
       "Command": "🎮 Inventar",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_I",
@@ -95,8 +77,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": "/me Was hast du dabei?"
     }
   ]

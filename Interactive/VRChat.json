@@ -9,8 +9,6 @@
       "ChannelPointsCosts": 3000,
       "ChannelPointsDescription": "",
       "Command": "🎮 OSC Example",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [],
       "OSC": [
         {
@@ -20,7 +18,6 @@
           "HoldTime": 0.0
         }
       ],
-      "Sound": "",
       "Message": "The 'twitch' in the Name field is the 'global' paramter. It has to be a 'global' parameter, so no VRCFury unless you set it there as 'global' in the Full-Controler sub-options! Learn more about that in the VRCFury official documentation. This example sets a value into an int-based parameter. You can do booleans with 1 or 0 for true or false e.g. on or off and also doubles by doing 1.0 or 0.333522 or 0.0005 s.o. in the value field!"
     },
     {
@@ -29,8 +26,6 @@
       "ChannelPointsCosts": 100,
       "ChannelPointsDescription": "Using the KaefiBOT Prefab on Gumroad to set additional camera spots",
       "Command": "🎬 Dolly and Cam Example with extra Delay",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [],
       "OSC": [
         {
@@ -58,7 +53,6 @@
           "HoldTime": 0.0
         }
       ],
-      "Sound": "",
       "Message": "Look it plays a dolly, waits 60 seconds and moves to a set camera position in the VRC KaefiBOT Prefab for your Avatar. Get it on Gurmoad! It's free!!!"
     }
   ]

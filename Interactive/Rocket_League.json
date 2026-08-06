@@ -9,8 +9,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Rückwärts, rückwärts",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_S",
@@ -19,7 +17,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "Vorwärts ist jetzt Rückwärts..."
     },
     {
@@ -27,8 +24,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Ballkamera an/aus",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -37,7 +32,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "",
       "Message": "WO IST DER BALL?"
     },
     {
@@ -45,8 +39,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Springen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -55,7 +47,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "",
       "Message": "SPAAAAAAAAAAAACE"
     },
     {
@@ -63,8 +54,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Kamera (links)",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -73,7 +62,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "War da was?"
     },
     {
@@ -81,8 +69,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Kamera (rechts)",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -91,7 +77,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "War da was?"
     },
     {
@@ -99,8 +84,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 DrivingPAW",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_W",
@@ -109,7 +92,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "Spürst du den Wind in deinen Haaren?"
     },
     {
@@ -117,8 +99,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 ESC",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESC",
@@ -127,7 +107,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "",
       "Message": "Ich halte diese Aufregung nicht aus..."
     }
   ]

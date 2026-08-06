@@ -6,7 +6,6 @@
   "InteractiveKeys": [
     {
       "Command": "HerbPerve",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 17,
@@ -18,7 +17,6 @@
     },
     {
       "Command": "WubTF",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 16,
@@ -30,7 +28,6 @@
     },
     {
       "Command": "AngelThump",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 1,
@@ -42,7 +39,6 @@
     },
     {
       "Command": "SeriousSloth",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 56,
@@ -54,7 +50,6 @@
     },
     {
       "Command": "FeelsAmazingMan",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 19,
@@ -66,7 +61,6 @@
     },
     {
       "Command": "BroBalt",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 33,

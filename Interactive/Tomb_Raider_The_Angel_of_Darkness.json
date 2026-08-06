@@ -7,8 +7,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Spring!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LALT",
@@ -22,8 +20,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Ducken",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_PERIOD",
@@ -37,8 +33,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 SneakPAW",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_RETURN",
@@ -52,8 +46,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Rollen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_COMMA",

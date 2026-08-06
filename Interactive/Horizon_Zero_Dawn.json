@@ -6,8 +6,6 @@
   "InteractiveKeys": [
     {
       "Command": "FeelsFastMan",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_CAPSLOCK",
@@ -20,8 +18,6 @@
     },
     {
       "Command": "MonkaS",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_C",
@@ -34,8 +30,6 @@
     },
     {
       "Command": "WolfComfy",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_H",
@@ -48,8 +42,6 @@
     },
     {
       "Command": "monkaBIG",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_M",
@@ -94,8 +86,6 @@
     },
     {
       "Command": "monkaRude",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESCAPE",
