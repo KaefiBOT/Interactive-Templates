@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Doom Interactive Rage Edition™",
   "Description": "Hell let loose!",
   "CreatedBy": "Trebius522 | https://twitch.tv/trebius522",

@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "R.E.P.O. Interactive",
   "Description": "Macht R.E.P.O. einfach härter als es eh schon ist!",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",

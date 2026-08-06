@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Minecraft Interactive™",
   "Description": "Erlebe Minecraft jetzt Interaktiv. Deine Community kann dich unterstützen oder deine Dias droppen. Es liegt ganz bei Ihnen!",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",

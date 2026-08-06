@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Ach ich weiß doch auch nicht...",
   "Description": "Das Game!",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",

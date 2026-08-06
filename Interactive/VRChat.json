@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "VRChat OSC Channelpoints",
   "Description": "OSC Protokoll für VRChat in KaefiBOT",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",

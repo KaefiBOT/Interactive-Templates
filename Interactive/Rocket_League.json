@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Rocket Torture",
   "Description": "Fährst du Vorwärts oder ist Rückwärts bereits das neue Vorwärts?!",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",

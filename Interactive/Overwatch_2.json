@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Oversalt™",
   "Description": "Destroys your Life. Finally!",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",

@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Call of Derpy™: Modern Interactive",
   "Description": "Dieses Chaos wurde heraufbeschworen vom #Rudel",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",

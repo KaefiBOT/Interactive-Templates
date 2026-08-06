@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "I am Dead!",
   "Description": "Was soll ich sagen? Ist evil!",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",

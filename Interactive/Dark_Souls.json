@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Dork Souls™: Treb-I-Rage-ius Special Edition™",
   "Description": "This is your ultimate torture. You think Dark Souls is hard (even with Mods)? Think again!",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",

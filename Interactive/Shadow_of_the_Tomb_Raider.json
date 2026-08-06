@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Shadowo of the Raider Tomb",
   "Description": "Ein bisschen interaktiver als Rise of the Duwumb Raider",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",

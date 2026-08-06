@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Tomb Raider 2 - Interactive Hell",
   "Description": "Einfach zum Kotzen xD",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",

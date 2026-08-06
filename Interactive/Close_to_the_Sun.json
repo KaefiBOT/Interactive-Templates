@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Close to da Rampage!",
   "Description": "Horror und Interactive vertragen sich. Immer.",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
