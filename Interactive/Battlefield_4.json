@@ -20,7 +20,7 @@
       "Command": "monkaHandsUp",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_G",
           "Key": 34,
           "InputType": 1,
           "HoldTime": 1
@@ -32,7 +32,7 @@
       "Command": "monkaBIG",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_Q",
           "Key": 16,
           "InputType": 1,
           "HoldTime": 1

@@ -8,11 +8,13 @@
       "Command": "FeelsFastMan",
       "KeysToPress": [
         {
+          "Name": "DIK_W",
           "Key": 17,
           "InputType": 1,
           "HoldTime": 5
         },
         {
+          "Name": "DIK_LSHIFT",
           "Key": 42,
           "InputType": 1,
           "HoldTime": 3
@@ -24,6 +26,7 @@
       "Command": "ariW",
       "KeysToPress": [
         {
+          "Name": "DIK_S",
           "Key": 31,
           "InputType": 1,
           "HoldTime": 5
@@ -36,6 +39,7 @@
       "KeyCooldown": 1,
       "KeysToPress": [
         {
+          "Name": "DIK_3",
           "Key": 4,
           "InputType": 1,
           "HoldTime": 3
@@ -47,6 +51,7 @@
       "Command": "notsquishY",
       "KeysToPress": [
         {
+          "Name": "DIK_R",
           "Key": 19,
           "InputType": 1,
           "HoldTime": 1
@@ -58,11 +63,13 @@
       "Command": "Q",
       "KeysToPress": [
         {
+          "Name": "DIK_Q",
           "Key": 16,
           "InputType": 1,
           "HoldTime": 1
         },
         {
+          "Name": "DIK_Q",
           "Key": 16,
           "InputType": 1,
           "HoldTime": 0
@@ -74,11 +81,13 @@
       "Command": "E",
       "KeysToPress": [
         {
+          "Name": "DIK_E",
           "Key": 18,
           "InputType": 1,
           "HoldTime": 1
         },
         {
+          "Name": "DIK_E",
           "Key": 18,
           "InputType": 1,
           "HoldTime": 0

@@ -1,8 +1,8 @@
 {
   "$schema": "../Schemas/application-interactive.schema.json",
-  "Name": "",
-  "Description": "",
-  "CreatedBy": "",
+  "Name": "Fall Guys",
+  "Description": "Fall Guys Interactive",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
   "InteractiveKeys": [
     {
       "TempChannelPointsID": "",
@@ -18,7 +18,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\Hey wha happen.mp3",
       "Message": "HALT STOPP!"
     },
     {
@@ -35,7 +34,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\Mario Kart Start.mp3",
       "Message": "Lets go!"
     },
     {
@@ -52,7 +50,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\Do it just do it.mp3",
       "Message": "Welche Quest?"
     },
     {
@@ -69,10 +66,9 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\frohes-schaffen.mp3",
       "Message": "Anderer Modus bitte"
     },
-       {
+    {
       "TempChannelPointsID": "",
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
@@ -80,14 +76,14 @@
       "KeysToPress": [
         {
           "Name": "DIK_1",
-          "Key": 4,
+          "Key": 2,
           "InputType": 1,
           "HoldTime": 1
         }
       ],
       "Message": "Emote 1 please!"
     },
-   {
+    {
       "TempChannelPointsID": "",
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
@@ -95,7 +91,7 @@
       "KeysToPress": [
         {
           "Name": "DIK_2",
-          "Key": 4,
+          "Key": 3,
           "InputType": 1,
           "HoldTime": 1
         }

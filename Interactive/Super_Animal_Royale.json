@@ -45,7 +45,7 @@
       "Command": "🎮 ESC",
       "KeysToPress": [
         {
-          "Name": "DIK_ESC",
+          "Name": "DIK_ESCAPE",
           "Key": 1,
           "InputType": 1,
           "HoldTime": 5
@@ -61,25 +61,25 @@
       "KeySelectMode": 1,
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_1",
           "Key": 2,
           "InputType": 1,
           "HoldTime": 0
         },
         {
-          "Name": "",
+          "Name": "DIK_2",
           "Key": 3,
           "InputType": 1,
           "HoldTime": 0
         },
         {
-          "Name": "",
+          "Name": "DIK_3",
           "Key": 4,
           "InputType": 1,
           "HoldTime": 0
         },
         {
-          "Name": "",
+          "Name": "DIK_4",
           "Key": 5,
           "InputType": 1,
           "HoldTime": 0
@@ -94,7 +94,7 @@
       "Command": "🎮 SneakyPAW",
       "KeysToPress": [
         {
-          "Name": "DIK_LSTRG",
+          "Name": "DIK_LCONTROL",
           "Key": 29,
           "InputType": 1,
           "HoldTime": 3
@@ -109,7 +109,7 @@
       "Command": "🎮 Emote",
       "KeysToPress": [
         {
-          "Name": "DIK_E",
+          "Name": "DIK_V",
           "Key": 47,
           "InputType": 1,
           "HoldTime": 3

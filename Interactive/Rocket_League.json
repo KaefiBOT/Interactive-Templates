@@ -26,7 +26,7 @@
       "Command": "🎮 Ballkamera an/aus",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_SPACE",
           "Key": 57,
           "InputType": 1,
           "HoldTime": 0
@@ -41,8 +41,8 @@
       "Command": "🎮 Springen",
       "KeysToPress": [
         {
-          "Name": "",
-          "Key": 257,
+          "Name": "MOUSE_RIGHT_DOWN",
+          "Key": 8,
           "InputType": 0,
           "HoldTime": 0
         }
@@ -56,7 +56,7 @@
       "Command": "🎮 Kamera (links)",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_NUMPAD4",
           "Key": 75,
           "InputType": 1,
           "HoldTime": 5
@@ -71,7 +71,7 @@
       "Command": "🎮 Kamera (rechts)",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_NUMPAD6",
           "Key": 77,
           "InputType": 1,
           "HoldTime": 5
@@ -101,7 +101,7 @@
       "Command": "🎮 ESC",
       "KeysToPress": [
         {
-          "Name": "DIK_ESC",
+          "Name": "DIK_ESCAPE",
           "Key": 1,
           "InputType": 1,
           "HoldTime": 1

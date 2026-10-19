@@ -8,6 +8,7 @@
       "Command": "HerbPerve",
       "KeysToPress": [
         {
+          "Name": "DIK_W",
           "Key": 17,
           "InputType": 1,
           "HoldTime": 5
@@ -19,6 +20,7 @@
       "Command": "WubTF",
       "KeysToPress": [
         {
+          "Name": "DIK_Q",
           "Key": 16,
           "InputType": 1,
           "HoldTime": 1
@@ -30,6 +32,7 @@
       "Command": "AngelThump",
       "KeysToPress": [
         {
+          "Name": "DIK_ESCAPE",
           "Key": 1,
           "InputType": 1,
           "HoldTime": 0
@@ -41,6 +44,7 @@
       "Command": "SeriousSloth",
       "KeysToPress": [
         {
+          "Name": "DIK_LMENU",
           "Key": 56,
           "InputType": 1,
           "HoldTime": 2
@@ -52,6 +56,7 @@
       "Command": "FeelsAmazingMan",
       "KeysToPress": [
         {
+          "Name": "DIK_R",
           "Key": 19,
           "InputType": 1,
           "HoldTime": 1
@@ -63,6 +68,7 @@
       "Command": "BroBalt",
       "KeysToPress": [
         {
+          "Name": "DIK_F",
           "Key": 33,
           "InputType": 1,
           "HoldTime": 1
@@ -75,11 +81,13 @@
       "KeyCooldown": 1,
       "KeysToPress": [
         {
+          "Name": "DIK_SPACE",
           "Key": 57,
           "InputType": 1,
           "HoldTime": 1
         },
         {
+          "Name": "DIK_SPACE",
           "Key": 57,
           "InputType": 1,
           "HoldTime": 1

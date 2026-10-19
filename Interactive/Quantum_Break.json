@@ -8,11 +8,13 @@
       "Command": "FeelsFastMan",
       "KeysToPress": [
         {
+          "Name": "DIK_LSHIFT",
           "Key": 42,
           "InputType": 1,
           "HoldTime": 0
         },
         {
+          "Name": "DIK_LSHIFT",
           "Key": 42,
           "InputType": 1,
           "HoldTime": 0
@@ -24,6 +26,7 @@
       "Command": "!jump",
       "KeysToPress": [
         {
+          "Name": "DIK_SPACE",
           "Key": 57,
           "InputType": 1,
           "HoldTime": 0
@@ -36,16 +39,19 @@
       "KeySelectMode": 1,
       "KeysToPress": [
         {
+          "Name": "DIK_1",
           "Key": 2,
           "InputType": 1,
           "HoldTime": 0
         },
         {
+          "Name": "DIK_2",
           "Key": 3,
           "InputType": 1,
           "HoldTime": 0
         },
         {
+          "Name": "DIK_3",
           "Key": 4,
           "InputType": 1,
           "HoldTime": 0
@@ -57,6 +63,7 @@
       "Command": "feelsWholesome",
       "KeysToPress": [
         {
+          "Name": "DIK_LCONTROL",
           "Key": 29,
           "InputType": 1,
           "HoldTime": 0

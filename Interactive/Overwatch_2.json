@@ -13,25 +13,25 @@
       "KeySelectMode": 1,
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_W",
           "Key": 17,
           "InputType": 1,
           "HoldTime": 3
         },
         {
-          "Name": "",
+          "Name": "DIK_A",
           "Key": 30,
           "InputType": 1,
           "HoldTime": 3
         },
         {
-          "Name": "",
+          "Name": "DIK_S",
           "Key": 31,
           "InputType": 1,
           "HoldTime": 3
         },
         {
-          "Name": "",
+          "Name": "DIK_D",
           "Key": 32,
           "InputType": 1,
           "HoldTime": 3
@@ -46,7 +46,7 @@
       "Command": "🎮 Deckung",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_LCONTROL",
           "Key": 29,
           "InputType": 1,
           "HoldTime": 5
@@ -61,7 +61,7 @@
       "Command": "🎮 Ultimative Fähigkeit",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_Q",
           "Key": 16,
           "InputType": 1,
           "HoldTime": 0
@@ -76,13 +76,13 @@
       "Command": "🎮 Systemfehler",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_LSHIFT",
           "Key": 42,
           "InputType": 1,
           "HoldTime": 0
         },
         {
-          "Name": "",
+          "Name": "DIK_E",
           "Key": 18,
           "InputType": 1,
           "HoldTime": 0
@@ -97,7 +97,7 @@
       "Command": "🎮 Nachladen",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_R",
           "Key": 19,
           "InputType": 1,
           "HoldTime": 0
@@ -113,13 +113,13 @@
       "KeySelectMode": 1,
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_1",
           "Key": 2,
           "InputType": 1,
           "HoldTime": 5
         },
         {
-          "Name": "",
+          "Name": "DIK_2",
           "Key": 3,
           "InputType": 1,
           "HoldTime": 5

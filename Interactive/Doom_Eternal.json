@@ -8,11 +8,13 @@
       "Command": "panicBasket",
       "KeysToPress": [
         {
+          "Name": "DIK_LSHIFT",
           "Key": 42,
           "InputType": 1,
           "HoldTime": 1
         },
         {
+          "Name": "DIK_LSHIFT",
           "Key": 42,
           "InputType": 1,
           "HoldTime": 1
@@ -24,6 +26,7 @@
       "Command": "PunchTrees",
       "KeysToPress": [
         {
+          "Name": "DIK_E",
           "Key": 18,
           "InputType": 1,
           "HoldTime": 1
@@ -35,6 +38,7 @@
       "Command": "riPepperonis",
       "KeysToPress": [
         {
+          "Name": "DIK_C",
           "Key": 46,
           "InputType": 1,
           "HoldTime": 1
@@ -46,6 +50,7 @@
       "Command": "PowerUpR",
       "KeysToPress": [
         {
+          "Name": "DIK_R",
           "Key": 19,
           "InputType": 1,
           "HoldTime": 1
@@ -57,6 +62,7 @@
       "Command": "NotLikeThis",
       "KeysToPress": [
         {
+          "Name": "DIK_LCONTROL",
           "Key": 29,
           "InputType": 1,
           "HoldTime": 1
@@ -68,6 +74,7 @@
       "Command": "bleedPurple",
       "KeysToPress": [
         {
+          "Name": "DIK_Q",
           "Key": 16,
           "InputType": 1,
           "HoldTime": 1
@@ -79,11 +86,13 @@
       "Command": "twitchRaid",
       "KeysToPress": [
         {
+          "Name": "DIK_SPACE",
           "Key": 57,
           "InputType": 1,
           "HoldTime": 1
         },
         {
+          "Name": "DIK_SPACE",
           "Key": 57,
           "InputType": 1,
           "HoldTime": 1

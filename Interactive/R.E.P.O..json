@@ -37,7 +37,6 @@
           "HoldTime": 3.0
         }
       ],
-      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "Steuerung wird re-kalibiert..."
     },
     {
@@ -53,7 +52,6 @@
           "HoldTime": 3.0
         }
       ],
-      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "NU MACH SCHON!!"
     },
     {
@@ -69,7 +67,6 @@
           "HoldTime": 0.0
         }
       ],
-      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": ""
     },
     {
@@ -85,7 +82,6 @@
           "HoldTime": 0.0
         }
       ],
-      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": ""
     },
     {
@@ -101,7 +97,6 @@
           "HoldTime": 1.0
         }
       ],
-      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": ""
     }
   ]

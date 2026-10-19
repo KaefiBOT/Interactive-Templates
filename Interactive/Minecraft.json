@@ -11,7 +11,7 @@
       "Command": "🎮 Spring",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_SPACE",
           "Key": 57,
           "InputType": 1,
           "HoldTime": 0
@@ -26,7 +26,7 @@
       "Command": "🎮 Langsamer!",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_LSHIFT",
           "Key": 42,
           "InputType": 1,
           "HoldTime": 3
@@ -75,7 +75,7 @@
       "Command": "🎮 ESC",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_ESCAPE",
           "Key": 1,
           "InputType": 1,
           "HoldTime": 0
@@ -91,13 +91,13 @@
       "KeyCooldown": 1,
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_Q",
           "Key": 16,
           "InputType": 1,
           "HoldTime": 1
         },
         {
-          "Name": "",
+          "Name": "DIK_S",
           "Key": 31,
           "InputType": 1,
           "HoldTime": 3
@@ -112,7 +112,7 @@
       "Command": "🎮 Rückwärts, rückwärts",
       "KeysToPress": [
         {
-          "Name": "",
+          "Name": "DIK_S",
           "Key": 31,
           "InputType": 1,
           "HoldTime": 5

@@ -37,7 +37,6 @@
           "HoldTime": 3
         }
       ],
-      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\du-willst-mit-mir-spielen.mp3",
       "Message": "Spürst du den Wind?"
     },
     {
@@ -53,7 +52,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "/me Nope nope nope!"
     }
   ]
