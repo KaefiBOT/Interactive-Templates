@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Phantom Abyss: Get a Phantom soon Edition",
   "Description": "Kills you. Often.",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
@@ -6,8 +7,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Ducken/Rutschen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LCONTROL",
@@ -21,8 +20,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Spring!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -36,7 +33,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 RunningPAW",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -69,8 +65,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 Rückwärts, rückwärts",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_S",
@@ -84,8 +78,6 @@
     {
       "TempChannelPointsID": "",
       "Command": "🎮 ESC",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESCAPE",

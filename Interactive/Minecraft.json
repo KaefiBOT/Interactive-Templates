@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Minecraft Interactive™",
   "Description": "Erlebe Minecraft jetzt Interaktiv. Deine Community kann dich unterstützen oder deine Dias droppen. Es liegt ganz bei Ihnen!",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
@@ -8,8 +9,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Spring",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -18,7 +17,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "",
       "Message": "SPAAAAAAAAAAAACE"
     },
     {
@@ -26,8 +24,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Langsamer!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -36,7 +32,6 @@
           "HoldTime": 3
         }
       ],
-      "Sound": "",
       "Message": ":sub_woweewut"
     },
     {
@@ -44,7 +39,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 RunningPAW",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -72,7 +66,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "Spürst du den Wind in deinen Haaren?"
     },
     {
@@ -80,8 +73,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 ESC",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -90,7 +81,6 @@
           "HoldTime": 0
         }
       ],
-      "Sound": "",
       "Message": "Ich halte diese Aufregung nicht aus..."
     },
     {
@@ -99,7 +89,6 @@
       "ChannelPointsDescription": "",
       "Command": "🎮 Drop das Item",
       "KeyCooldown": 1,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -114,7 +103,6 @@
           "HoldTime": 3
         }
       ],
-      "Sound": "",
       "Message": "Finger weg!"
     },
     {
@@ -122,8 +110,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Rückwärts, rückwärts",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -132,7 +118,6 @@
           "HoldTime": 5
         }
       ],
-      "Sound": "",
       "Message": "Vorwärts ist jetzt Rückwärts..."
     }
   ]

@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Rise of the Tomb Raider",
   "Description": "Wohl eher: Rise of the Derp Raider",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
@@ -8,8 +9,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "!jump",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -25,8 +24,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "!crouch",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_C",
@@ -42,8 +39,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "!esc",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESCAPE",
@@ -59,8 +54,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "!nachladen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_R",
@@ -76,8 +69,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "!schulter",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LSHIFT",
@@ -93,7 +84,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "!waffe",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -128,8 +118,6 @@
       "ChannelPointsCosts": 8000,
       "ChannelPointsDescription": "ZzzzzZzzz...",
       "Command": "PillowPAW",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_NUMPAD9",
@@ -145,8 +133,6 @@
       "ChannelPointsCosts": 8000,
       "ChannelPointsDescription": "Wenn die Musik mal wieder kickt...",
       "Command": "WoweeJAM",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_NUMPAD3",

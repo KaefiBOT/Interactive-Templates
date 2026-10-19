@@ -1,11 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "zeDivision 2",
   "Description": "Are we the baddies?",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
   "InteractiveKeys": [
     {
       "Command": "FeelsFastMan",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 17,
@@ -22,7 +22,6 @@
     },
     {
       "Command": "ariW",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 31,
@@ -46,7 +45,6 @@
     },
     {
       "Command": "notsquishY",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 19,
@@ -58,7 +56,6 @@
     },
     {
       "Command": "Q",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 16,
@@ -75,7 +72,6 @@
     },
     {
       "Command": "E",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 18,

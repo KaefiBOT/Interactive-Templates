@@ -1,12 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Shadowo of the Raider Tomb",
   "Description": "Ein bisschen interaktiver als Rise of the Duwumb Raider",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
   "InteractiveKeys": [
     {
       "Command": "monkaRude",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_C",
@@ -19,8 +18,6 @@
     },
     {
       "Command": "monkaWolf",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESCAPE",
@@ -33,8 +30,6 @@
     },
     {
       "Command": "monkaHandsUp",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -47,8 +42,6 @@
     },
     {
       "Command": "Monkagun",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ADD",
@@ -61,8 +54,6 @@
     },
     {
       "Command": "monkaSleeper",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LCONTROL",
@@ -75,8 +66,6 @@
     },
     {
       "Command": "!E",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_E",

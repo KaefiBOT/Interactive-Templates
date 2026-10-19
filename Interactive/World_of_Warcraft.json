@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "World of Warcraft aber halt Interaktiv",
   "Description": "War da Craft?",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
@@ -8,8 +9,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 B!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_B",
@@ -18,8 +17,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": "Räum mal die Taschen auf..."
     },
     {
@@ -27,8 +24,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Eins",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_1",
@@ -37,8 +32,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": ""
     },
     {
@@ -46,8 +39,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Zwei",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_2",
@@ -56,8 +47,6 @@
           "HoldTime": 0
         }
       ],
-      "OSC": [],
-      "Sound": "",
       "Message": ""
     }
   ]

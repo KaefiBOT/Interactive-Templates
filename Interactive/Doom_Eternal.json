@@ -1,12 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Doom Interactive Rage Edition™",
   "Description": "Hell let loose!",
   "CreatedBy": "Trebius522 | https://twitch.tv/trebius522",
   "InteractiveKeys": [
     {
       "Command": "panicBasket",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 42,
@@ -23,8 +22,6 @@
     },
     {
       "Command": "PunchTrees",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 18,
@@ -36,8 +33,6 @@
     },
     {
       "Command": "riPepperonis",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 46,
@@ -49,8 +44,6 @@
     },
     {
       "Command": "PowerUpR",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 19,
@@ -62,8 +55,6 @@
     },
     {
       "Command": "NotLikeThis",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 29,
@@ -75,8 +66,6 @@
     },
     {
       "Command": "bleedPurple",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 16,
@@ -88,8 +77,6 @@
     },
     {
       "Command": "twitchRaid",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 57,

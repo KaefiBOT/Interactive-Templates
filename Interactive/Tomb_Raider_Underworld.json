@@ -1,12 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Tomb Raider: UnderPAW",
   "Description": "Sabotiere das Gameplay",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
   "InteractiveKeys": [
     {
       "Command": "!CTRL",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LCONTROL",
@@ -19,8 +18,6 @@
     },
     {
       "Command": "!ESC",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESCAPE",
@@ -33,8 +30,6 @@
     },
     {
       "Command": "!PDA",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_TAB",
@@ -47,8 +42,6 @@
     },
     {
       "Command": "!R",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_R",
@@ -61,8 +54,6 @@
     },
     {
       "Command": "!LICHT",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_F",
@@ -75,8 +66,6 @@
     },
     {
       "Command": "!Q",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_Q",

@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Super Animal Pawyale",
   "Description": "Wheeeeeeeeeeee",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
@@ -8,7 +9,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 RunningPAW",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -43,8 +43,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 ESC",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESC",
@@ -60,7 +58,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Waffenwechsel",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -95,8 +92,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 SneakyPAW",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LSTRG",
@@ -112,8 +107,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "",
       "Command": "🎮 Emote",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_E",
@@ -129,8 +122,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Repariere meine Rüstung (sofern möglich)",
       "Command": "🎮 RePAWrieren",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_C",

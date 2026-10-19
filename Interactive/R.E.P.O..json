@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "R.E.P.O. Interactive",
   "Description": "Macht R.E.P.O. einfach härter als es eh schon ist!",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
@@ -36,7 +37,6 @@
           "HoldTime": 3.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "Steuerung wird re-kalibiert..."
     },
@@ -45,8 +45,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Springen, Klettersprung tja oder loslassen...",
       "Command": "🎮 Spaaace!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -55,7 +53,6 @@
           "HoldTime": 3.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "NU MACH SCHON!!"
     },
@@ -64,8 +61,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 TumblePaw",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_Q",
@@ -74,7 +69,6 @@
           "HoldTime": 0.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": ""
     },
@@ -83,8 +77,6 @@
       "ChannelPointsCosts": 5000,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Es-ca-pe Paw",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESCAPE",
@@ -93,7 +85,6 @@
           "HoldTime": 0.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": ""
     },
@@ -102,8 +93,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Dies drückt die rechte Maustaste und lässt sie anschließend wieder los",
       "Command": "🎮 Lass los!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "MOUSE_RIGHT_DOWN",
@@ -112,7 +101,6 @@
           "HoldTime": 1.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": ""
     }

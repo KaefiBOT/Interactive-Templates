@@ -1,12 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Interactive Field 4",
   "Description": "Dieses Chaos wurde heraufbeschworen vom #Rudel",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
   "InteractiveKeys": [
     {
       "Command": "monkaSleeper",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_Y",
@@ -19,8 +18,6 @@
     },
     {
       "Command": "monkaHandsUp",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -33,8 +30,6 @@
     },
     {
       "Command": "monkaBIG",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -47,8 +42,6 @@
     },
     {
       "Command": "monkaRude",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_V",
@@ -61,8 +54,6 @@
     },
     {
       "Command": "Monkagun",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_R",

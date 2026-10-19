@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "",
   "Description": "",
   "CreatedBy": "",
@@ -9,7 +10,6 @@
       "ChannelPointsDescription": "Der Escabe-Button wird betätigt.",
       "Command": "Escape",
       "KeyCooldown": 60,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_ESCAPE",
@@ -27,7 +27,6 @@
       "ChannelPointsDescription": "Im Hauptbildschirm wird das Spiel gestartet.",
       "Command": "Spielen!",
       "KeyCooldown": 60,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -45,7 +44,6 @@
       "ChannelPointsDescription": "Im Hauptbildschirm kann auf die Quests zugegriffen werden",
       "Command": "Quests",
       "KeyCooldown": 60,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_F",
@@ -63,7 +61,6 @@
       "ChannelPointsDescription": "Im Hauptbildschirm kann der Spielmodus geändert werden",
       "Command": "Spielmodus wechseln",
       "KeyCooldown": 60,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LCONTROL",
@@ -80,8 +77,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
       "Command": "Emote 1",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_1",
@@ -90,7 +85,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "",
       "Message": "Emote 1 please!"
     },
    {
@@ -98,8 +92,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
       "Command": "Emote 2",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_2",
@@ -108,7 +100,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "",
       "Message": "Emote 2 please!"
     },
     {
@@ -116,8 +107,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
       "Command": "Emote 3",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_3",
@@ -126,7 +115,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "",
       "Message": "Emote 3 please!"
     },
     {
@@ -134,8 +122,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
       "Command": "Emote 4",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_4",
@@ -144,7 +130,6 @@
           "HoldTime": 1
         }
       ],
-      "Sound": "",
       "Message": "Emote 4 please!"
     }
   ]

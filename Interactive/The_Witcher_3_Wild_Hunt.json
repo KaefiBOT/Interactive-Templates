@@ -1,11 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Wowee von Riva - The Woweeitcher Interactive",
   "Description": "Hrmpf!",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
   "InteractiveKeys": [
     {
       "Command": "🎮 RunningPAW",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 17,
@@ -22,7 +22,6 @@
     },
     {
       "Command": "🎮 ESC",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 1,
@@ -34,7 +33,6 @@
     },
     {
       "Command": "🎮 Zaubern",
-      "KeyCooldown": 0,
       "KeysToPress": [
         {
           "Key": 45,

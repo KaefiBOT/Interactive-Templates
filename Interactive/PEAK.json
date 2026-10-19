@@ -1,4 +1,5 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "PEAK Interactive",
   "Description": "Macht PEAK einfach härter als es eh schon ist!",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
@@ -36,7 +37,6 @@
           "HoldTime": 3.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "Steuerung wird re-kalibiert..."
     },
@@ -45,8 +45,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Springen, Klettersprung tja oder loslassen...",
       "Command": "🎮 Spaaace!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_SPACE",
@@ -55,7 +53,6 @@
           "HoldTime": 3.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "NU MACH SCHON!!"
     },
@@ -64,8 +61,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Deckung",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "",
@@ -74,7 +69,6 @@
           "HoldTime": 5.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "Eine gute Deckung ist die halbe Miete..."
     },
@@ -83,8 +77,6 @@
       "ChannelPointsCosts": 500,
       "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
       "Command": "🎮 Lass fallen",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_Q",
@@ -93,7 +85,6 @@
           "HoldTime": 1.0
         }
       ],
-      "OSC": [],
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3",
       "Message": "Das brauchst du doch gar nicht..."
     }

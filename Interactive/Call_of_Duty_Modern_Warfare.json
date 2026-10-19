@@ -1,12 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Call of Derpy™: Modern Interactive",
   "Description": "Dieses Chaos wurde heraufbeschworen vom #Rudel",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
   "InteractiveKeys": [
     {
       "Command": "🎮 SneakPAW",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 46,
@@ -18,8 +17,6 @@
     },
     {
       "Command": "🎮 Granate werfen!",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 34,
@@ -31,8 +28,6 @@
     },
     {
       "Command": "🎮 Equipment Taste",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 16,
@@ -44,8 +39,6 @@
     },
     {
       "Command": "🎮 Waffenmodus wechseln",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 48,
@@ -57,8 +50,6 @@
     },
     {
       "Command": "🎮 Nächste Waffe",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 2,

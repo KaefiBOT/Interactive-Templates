@@ -1,12 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Ach ich weiß doch auch nicht...",
   "Description": "Das Game!",
   "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
   "InteractiveKeys": [
     {
       "Command": "monkaChrist",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_LSHIFT",
@@ -19,8 +18,6 @@
     },
     {
       "Command": "MonkaS",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_R",
@@ -33,8 +30,6 @@
     },
     {
       "Command": "Monkagun",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_RBRACKET",
@@ -47,8 +42,6 @@
     },
     {
       "Command": "wOlF",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_TAB",
@@ -61,8 +54,6 @@
     },
     {
       "Command": "BirbRave",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Name": "DIK_F",

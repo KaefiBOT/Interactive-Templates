@@ -1,12 +1,11 @@
 {
+  "$schema": "../Schemas/application-interactive.schema.json",
   "Name": "Quantum Owl",
   "Description": "So viel Chaos in so wenig Zeit.",
   "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
   "InteractiveKeys": [
     {
       "Command": "FeelsFastMan",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 42,
@@ -23,8 +22,6 @@
     },
     {
       "Command": "!jump",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 57,
@@ -36,7 +33,6 @@
     },
     {
       "Command": "monkaRude",
-      "KeyCooldown": 0,
       "KeySelectMode": 1,
       "KeysToPress": [
         {
@@ -59,8 +55,6 @@
     },
     {
       "Command": "feelsWholesome",
-      "KeyCooldown": 0,
-      "KeySelectMode": 0,
       "KeysToPress": [
         {
           "Key": 29,
